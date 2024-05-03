@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/hassanportfolio.github.io/static/css/main.f623bed5.css",
-    "main.js": "/hassanportfolio.github.io/static/js/main.48abe8be.js",
+    "main.css": "/hassanportfolio.github.io/static/css/main.d89680c3.css",
+    "main.js": "/hassanportfolio.github.io/static/js/main.38d3d610.js",
     "static/js/453.db46277d.chunk.js": "/hassanportfolio.github.io/static/js/453.db46277d.chunk.js",
-    "static/media/Skyline pic.jpg": "/hassanportfolio.github.io/static/media/Skyline pic.3153ad7c2c241e4b7113.jpg",
-    "static/media/milkyWay.jpg": "/hassanportfolio.github.io/static/media/milkyWay.82e310a321e740374aa5.jpg",
+    "static/media/chicagoafternoon.jpg": "/hassanportfolio.github.io/static/media/chicagoafternoon.bb48d82849b002427798.jpg",
+    "static/media/chicagomorning.jpg": "/hassanportfolio.github.io/static/media/chicagomorning.a862b623bb29bd810c89.jpg",
+    "static/media/ExpensesTracker.png": "/hassanportfolio.github.io/static/media/ExpensesTracker.ba9cc6b67bfebf06633e.png",
     "static/media/transparentLogo.png": "/hassanportfolio.github.io/static/media/transparentLogo.77822f832eee07f2b360.png",
-    "static/media/Road.jpeg": "/hassanportfolio.github.io/static/media/Road.d68ce12d10f3d1a24cd1.jpeg",
+    "static/media/chicagonight.jpg": "/hassanportfolio.github.io/static/media/chicagonight.fa7d3bc3b3486e70c81d.jpg",
+    "static/media/flashcards.png": "/hassanportfolio.github.io/static/media/flashcards.89666d6b1ed5aa2e12f9.png",
+    "static/media/chicagoevening.jpg": "/hassanportfolio.github.io/static/media/chicagoevening.09a5f704aedc80ec12d3.jpg",
+    "static/media/slick.svg": "/hassanportfolio.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hassanportfolio.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hassanportfolio.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hassanportfolio.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hassanportfolio.github.io/index.html",
-    "main.f623bed5.css.map": "/hassanportfolio.github.io/static/css/main.f623bed5.css.map",
-    "main.48abe8be.js.map": "/hassanportfolio.github.io/static/js/main.48abe8be.js.map",
+    "main.d89680c3.css.map": "/hassanportfolio.github.io/static/css/main.d89680c3.css.map",
+    "main.38d3d610.js.map": "/hassanportfolio.github.io/static/js/main.38d3d610.js.map",
     "453.db46277d.chunk.js.map": "/hassanportfolio.github.io/static/js/453.db46277d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f623bed5.css",
-    "static/js/main.48abe8be.js"
+    "static/css/main.d89680c3.css",
+    "static/js/main.38d3d610.js"
   ]
 }
