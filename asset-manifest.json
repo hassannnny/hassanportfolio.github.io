@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hassanportfolio.github.io/static/css/main.d89680c3.css",
-    "main.js": "/hassanportfolio.github.io/static/js/main.38d3d610.js",
+    "main.js": "/hassanportfolio.github.io/static/js/main.48153b96.js",
     "static/js/453.db46277d.chunk.js": "/hassanportfolio.github.io/static/js/453.db46277d.chunk.js",
     "static/media/chicagoafternoon.jpg": "/hassanportfolio.github.io/static/media/chicagoafternoon.bb48d82849b002427798.jpg",
     "static/media/chicagomorning.jpg": "/hassanportfolio.github.io/static/media/chicagomorning.a862b623bb29bd810c89.jpg",
@@ -9,6 +9,7 @@
     "static/media/transparentLogo.png": "/hassanportfolio.github.io/static/media/transparentLogo.77822f832eee07f2b360.png",
     "static/media/chicagonight.jpg": "/hassanportfolio.github.io/static/media/chicagonight.fa7d3bc3b3486e70c81d.jpg",
     "static/media/flashcards.png": "/hassanportfolio.github.io/static/media/flashcards.89666d6b1ed5aa2e12f9.png",
+    "static/media/JavedResumeIT.pdf": "/hassanportfolio.github.io/static/media/JavedResumeIT.3d30d911e8685bae58bc.pdf",
     "static/media/chicagoevening.jpg": "/hassanportfolio.github.io/static/media/chicagoevening.09a5f704aedc80ec12d3.jpg",
     "static/media/slick.svg": "/hassanportfolio.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/hassanportfolio.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -16,11 +17,11 @@
     "static/media/slick.woff": "/hassanportfolio.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hassanportfolio.github.io/index.html",
     "main.d89680c3.css.map": "/hassanportfolio.github.io/static/css/main.d89680c3.css.map",
-    "main.38d3d610.js.map": "/hassanportfolio.github.io/static/js/main.38d3d610.js.map",
+    "main.48153b96.js.map": "/hassanportfolio.github.io/static/js/main.48153b96.js.map",
     "453.db46277d.chunk.js.map": "/hassanportfolio.github.io/static/js/453.db46277d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d89680c3.css",
-    "static/js/main.38d3d610.js"
+    "static/js/main.48153b96.js"
   ]
 }
