@@ -132,7 +132,6 @@ function App() {
             <Navbar.Collapse id='basic-navbar-nav'>
               <Nav className='me-auto'>
                 <Nav.Link href='#projects' style={{color: 'white', paddingRight: '3vw'}}>Projects</Nav.Link>
-                <Nav.Link href={resume} target='_blank' style={{color: 'white', paddingRight: '3vw'}}>Resume</Nav.Link>
                 <Nav.Link href='https://github.com/hassannnny' target='_blank' style={{color: 'white', paddingRight: '3vw'}}><Icon.Github size={30}></Icon.Github></Nav.Link>
                 <Nav.Link href='https://www.linkedin.com/in/liaquathassanjaved/' style={{color: 'white', paddingRight: '3vw'}}><Icon.Linkedin size={30}></Icon.Linkedin></Nav.Link>
                 <Nav.Link href='mailto:hassanjaved6336@gmail.com' target='_blank' style={{color: 'white'}}><Icon.Envelope size={30}></Icon.Envelope></Nav.Link>
