@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+/* .container {
+    position: relative;
+    text-align: center;
+    color: blue;
+    display: inline-block;
+} */
+
+.overlay-text {
+    position: absolute;
+    font-size:72px;
+    color: white;
+    top:10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+/* .clockrow {
+    background-image: url('./img/chicagoevening.jpg');
+    background-size: contain;
+    height: 70vh;
+    width: 60vw;
+    background-repeat: no-repeat;
+    margin-left: 15vw;
+    
+} */
